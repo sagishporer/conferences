@@ -35,12 +35,12 @@ cfp:  # Optional
 
 ### Online-only events
 
-For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](http://androidstudygroup.github.io/conferences/online.html) page.
+For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://sagishporer.github.io/mobile-apps-conferences/online.html) page.
 
 
 Running locally
 ---------------
-![Build Jekyll Pages](https://github.com/AndroidStudyGroup/conferences/workflows/Build%20Jekyll%20Pages/badge.svg)
+![Build Jekyll Pages](https://github.com/sagishporer/mobile-apps-conferences/workflows/Build%20Jekyll%20Pages/badge.svg)
 
 ```
 bundle install --path vendor/bundle

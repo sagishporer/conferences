@@ -1,10 +1,10 @@
 ---
 layout: none
-uid_prefix: https://github.com/androidstudygroup/conferences/tree/gh-pages/
+uid_prefix: https://github.com/sagishporer/mobile-apps-conferences/tree/gh-pages/
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://androidstudygroup.github.io/conferences/
+PRODID:https://sagishporer.github.io/mobile-apps-conferences/
 METHOD:PUBLISH
 {%- for conference in site.conferences -%}
 {%- if conference.status == null %}
