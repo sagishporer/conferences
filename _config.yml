@@ -4,4 +4,4 @@ markdown: kramdown
 collections:
 - conferences
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
