@@ -1,5 +1,5 @@
 ---
-name: "MWC Barcelona"
+name: "MWC Shanghai"
 website: https://www.mwcshanghai.com/
 location: Shanghai, China
 
