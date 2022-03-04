@@ -27,6 +27,9 @@ mapping:
   "online":
     type:      bool
     required:  False
+  "live":
+    type:      bool
+    required:  False
   "cfp":
     type:      map
     required:  False
