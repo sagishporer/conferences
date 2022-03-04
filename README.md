@@ -19,7 +19,8 @@ name: "Droidcon"
 website: http://uk.droidcon.com/2015/
 location: London, UK
 status: Canceled/Postponed  # Optional, will show up in red if provided
-online: true                # Optional, for online-only events.
+online: true                # Optional, for online events.
+live: true                  # Optional, for live event
 
 date_start: 2015-10-29
 date_end:   2015-10-30
@@ -32,11 +33,6 @@ cfp:  # Optional
 ```
 
 *Note: Do not include the location of the conference in the name. The above conference is often referred to as "Droidcon London", but we will always render the location with the name so it is redundant.*
-
-### Online-only events
-
-For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://sagishporer.github.io/mobile-apps-conferences/online.html) page.
-
 
 Running locally
 ---------------
