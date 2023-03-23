@@ -1,5 +1,5 @@
 ---
-name: "GameCamp 10th Edition"
+name: "GameCamp Summit"
 website: https://www.gamecamp.io/event/10th-edition-of-gamecamp/
 location: Warsaw, Poland
 
