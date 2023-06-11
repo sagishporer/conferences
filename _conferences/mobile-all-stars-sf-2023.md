@@ -1,5 +1,5 @@
 ---
-name: "App Growth Connects"
+name: "Mobile All Stars"
 website: https://www.appmasters.com/events/sf
 location: San Fransisco, CA, USA
 
